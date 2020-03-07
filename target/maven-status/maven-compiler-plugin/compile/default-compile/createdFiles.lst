@@ -1,0 +1,6 @@
+com\liutong\entity\User.class
+com\liutong\controller\BeetlsqlTest.class
+com\liutong\conf\DataSourceConfig.class
+com\liutong\service\UserService.class
+com\liutong\dao\UserDao.class
+com\liutong\SpringBootTestBeetlSqlApplication.class
