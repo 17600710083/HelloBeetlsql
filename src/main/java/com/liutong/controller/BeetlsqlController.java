@@ -25,7 +25,7 @@ import java.util.List;
 @RestController
 @RequestMapping
 //Api注解，描述信息 可通过tag进行分类
-@Api(value = "HelloS", description = "HelloBeetlsql")
+@Api(value = "HelloBeetlsql", description = "HelloBeetlsql")
 public class BeetlsqlController {
     Log log = LogFactory.getLog(this.getClass());
     @Autowired
